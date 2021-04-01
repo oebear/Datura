@@ -4,8 +4,11 @@ it will send the recorded keys to a discord webhook.
 
 # updates
 V1.1
+
 no more discord webhook now gmail
+
 log file is hidden
+
 sends every 10 minutes until pc shutdown now instead of only once 
 
 # Warranty 
