@@ -6,6 +6,12 @@ it will send the recorded keys to email.
 
 
 # updates
+V1.2
+
+Uses threading now
+
+Checks for chrome continuously and stops logging keys when chrome is not open and continues when it is
+
 V1.1
 
 no more discord webhook now gmail
