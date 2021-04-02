@@ -1,5 +1,5 @@
 # Datura
-Datura is a program that dedects when chrome window is open and starts recording keyboard input to a file. After every 10 minutes
+Datura is a program that dedects when chrome window is open and starts recording keyboard input to a file. After every 1 minute
 it will send the recorded keys to email.
 
 
