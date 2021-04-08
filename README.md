@@ -8,7 +8,7 @@ it will send the recorded keys to email.
 # updates
 V1.3
 
-Added to startup so it starts always with pc
+Added to startup so it starts always with computer
 
 V1.2
 
